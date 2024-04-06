@@ -1,5 +1,5 @@
 ```
-This package provides common money management methods in forex trading
+This package provides common capital management methods in forex trading
 1- Martingale
 2- RR
 3- Kelly
